@@ -1,5 +1,5 @@
 
-import PatientForm from "@/components/ui/forms/PatientForm";
+import PatientForm from "@/components/forms/PatientForm";
 import Image from "next/image";
 import Link from "next/link";
 
